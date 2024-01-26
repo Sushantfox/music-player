@@ -3,7 +3,7 @@
 
 Function
 
-Random Song
-Previous Song
-Next Song
+Random Song,
+Previous Song,
+Next Song,
 Repeat Song
